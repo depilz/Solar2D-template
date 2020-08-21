@@ -1,0 +1,10 @@
+{
+	"firstSession":   null,
+	"prevSession":    null,
+	"currentSession": null,
+  
+  "state": {
+    "musicOn": true,
+    "sfxOn"  : true
+  }
+}
